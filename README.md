@@ -1,1 +1,1 @@
-# MyImageRepository
+# CDNRepository
